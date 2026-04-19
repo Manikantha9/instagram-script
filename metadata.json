@@ -1,0 +1,6 @@
+{
+  "name": "IG Reel Transcriber",
+  "description": "Batch transcribe Instagram Reels using AI. Paste links, get text, and export to Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
